@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Kalyston!
+# Olá, eu sou o Kalyston! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 <p align="left">
 
