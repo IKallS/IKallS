@@ -16,6 +16,7 @@
 - 🖥️ Técnico em Informática pelo IFSul
 - ⚛️ Foco em React, React Native, Node.js e PHP
 - 🔌 Experiência com APIs, sistemas ERP, pagamentos e sistemas fiscais
+- 💳 Integrações com meios de pagamento e emissão de documentos fiscais eletrônicos
 - 🗄️ MySQL e PostgreSQL
 - 🚀 Sempre explorando novas tecnologias e construindo novos projetos
 
@@ -62,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="expo logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
@@ -74,7 +75,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -100,7 +101,7 @@
 
   Minha trajetória na tecnologia começou pela formação como <strong>Técnico em Informática</strong> e evoluiu para o desenvolvimento profissional de software. Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e atuo com desenvolvimento Full Stack. <br><br>
 
-  Tenho experiência com <strong>React, React Native, Node.js e PHP</strong>, além de trabalhar com integrações de APIs, bancos de dados, sistemas ERP e soluções fiscais e financeiras. <br><br>
+  Tenho experiência com <strong>React, React Native, Node.js e PHP</strong>, além de trabalhar com integrações de APIs, bancos de dados, sistemas ERP e soluções fiscais e financeiras, incluindo <strong>integrações de pagamento e emissão de documentos fiscais eletrônicos</strong>. <br><br>
 
   Gosto especialmente de transformar problemas complexos em soluções simples, funcionais e bem estruturadas. 🚀
 
