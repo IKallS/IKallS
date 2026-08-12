@@ -1,63 +1,164 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+IKallS!"/>
 
-<p align="center">- 👨‍💻 Student of Systems Analysis and Development.</p>
+# 👋 Olá, eu sou o Kalyston!
 
-<h1 align="center"></h1>
+<p align="left">
 
-<div align=center>
-  <a href="https://github.com/SilasPires">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=IKallS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKallS&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+  Desenvolvedor <strong>Full Stack</strong> com experiência na criação de aplicações web e mobile, sistemas ERP e integrações com APIs. <br>
 
-##
+  Atualmente trabalho principalmente com <strong>React, React Native, Node.js, PHP e JavaScript/TypeScript</strong>, sempre buscando construir soluções modernas, performáticas e bem estruturadas.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Linha 1 -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp
-  
-  <!-- Linha 2 -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
 </p>
 
-<!--  
-<div align="center">
-  <a href = "mailto:vinicius14082004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vinícius-rodrigues-da-silva-b449b224a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
--->
-##
-  
-<div align=center>
-  <!--
- <img src="https://raw.githubusercontent.com/IKallS/IKallS/output/snake.svg" alt="Snake animation" />
-  -->
-</div>
-  
-## 
+## Sobre mim
 
-<!--  
-    <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViniRsilva}/count.svg" /></p> 
-    <br></div>
--->
-<!-- ![snake gif](https://github.com/ViniRsilva/ViniRsilva/blob/output/github-contribution-grid-snake.svg)
+- 💻 Desenvolvedor Full Stack
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🖥️ Técnico em Informática pelo IFSul
+- ⚛️ Foco em React, React Native, Node.js e PHP
+- 🔌 Experiência com APIs, sistemas ERP, pagamentos e sistemas fiscais
+- 🗄️ MySQL e PostgreSQL
+- 🚀 Sempre explorando novas tecnologias e construindo novos projetos
+
+---
+
+<br>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IKallS/IKallS/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IKallS/IKallS/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IKallS/IKallS/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<br>
+
+---
+
+<br>
+
+## Tecnologias e linguagens 💻
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+</div>
+
+### 🚀 Frameworks e bibliotecas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+</div>
+
+### 🛠️ Ferramentas de desenvolvimento
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
+</div>
+
+<br>
+
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+     alt="ilustração de um computador"
+     min-width="400px"
+     max-width="400px"
+     width="400px"
+     align="right">
+
+<p align="left">
+
+  Minha trajetória na tecnologia começou pela formação como <strong>Técnico em Informática</strong> e evoluiu para o desenvolvimento profissional de software. Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e atuo com desenvolvimento Full Stack. <br><br>
+
+  Tenho experiência com <strong>React, React Native, Node.js e PHP</strong>, além de trabalhar com integrações de APIs, bancos de dados, sistemas ERP e soluções fiscais e financeiras. <br><br>
+
+  Gosto especialmente de transformar problemas complexos em soluções simples, funcionais e bem estruturadas. 🚀
+
+</p>
+
+<br clear="right"/>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="left">
+
+  Se quiser trocar uma ideia sobre desenvolvimento, projetos ou tecnologia, pode me chamar! 🚀
+
+</p>
+
+<p align="left">
+
+  <a href="mailto:mirandakalyston@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kalystonmiranda/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/IKallS" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://portifolio-hc4w.vercel.app/" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=IKallS&style=flat-square&color=blueviolet" alt="Profile views"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKallS&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" width="100%" alt="Kalyston's github activity graph"/>
+
+  <br><br>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+
