@@ -102,7 +102,7 @@
 
   Minha trajetória na tecnologia começou pela formação como <strong>Técnico em Informática</strong> e evoluiu para o desenvolvimento profissional de software. Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e atuo com desenvolvimento Full Stack. <br><br>
 
-  Tenho experiência com <strong>React, React Native, Node.js e PHP</strong>, atuando no desenvolvimento de aplicações web e mobile com atenção à <strong>experiência do usuário e design de interfaces</strong>. Também trabalho com integrações de APIs, bancos de dados, sistemas ERP, meios de pagamento e emissão de documentos fiscais eletrônicos. <br><br>
+  Tenho experiência com <strong>React, React Native, Node.js e PHP</strong>, atuando no Desenvolvimento de aplicações web e mobile com atenção à <strong>experiência do usuário e design de interfaces</strong>. Também trabalho com integrações de APIs, bancos de dados, sistemas ERP, meios de pagamento e emissão de documentos fiscais eletrônicos. <br><br>
 
   Gosto especialmente de transformar problemas complexos em soluções simples, funcionais e bem estruturadas. 🚀
 
