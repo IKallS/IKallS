@@ -155,7 +155,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IKallS&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" width="100%" alt="Kalyston's github activity graph"/>
 
-  <br><br>
+<br><br>
 
 </div>
 
