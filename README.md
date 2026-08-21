@@ -2,7 +2,6 @@
 # Olá, eu sou o Kalyston! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 <p align="left">
-
   Desenvolvedor <strong>Full Stack</strong> com experiência na criação de aplicações web e mobile, sistemas ERP e integrações com APIs. <br>
 
   Atualmente trabalho principalmente com <strong>React, React Native, Node.js, PHP e JavaScript/TypeScript</strong>, sempre buscando construir soluções modernas, performáticas e bem estruturadas.
